@@ -1,1 +1,32 @@
 
+Pooled Insect Extraction Protocol
+1.	Remove ethanol by pipetting, then air dry tubes for 10-20min. 
+2.	Make up extraction buffer of 90ul ATL buffer/10ul P Proteinase K per sample. Add 100ul of the mix to each pool. 
+3.	Incubate samples for approx. 17 hours (i.e., overnight) at 56°C. 
+4.	Remove supernatant to a new tube, add 200 ul of AL buffer, mix by vortexing, then incubate at 56°C for 10 min. 
+5.	Add 200 ul of 100% ethanol then mix by vortexing. 
+6.	Place the mixture in a DNeasy spin column placed in a 2 ml collection tube. Centrifuge at >6000 x g (8000rpm) for 1 min. Discard the flow-through and collection tube. 
+7.	Place the spin column on a new collection tube and add 500 ul of buffer AW1. Centrifuge for 1 min at 8000rpm. Discard the flow-through and collection tube.
+8.	Place the spin column on a new collection tube and add 500 ul of buffer AW2. Centrifuge for 1 min at 8000rpm. Discard the flow-through and collection tube.
+9.	Transfer the spin column to a new 1.5 or 2 ml microcentrifuge tube. Label this tube with the sample number on lid and side.  
+10.	Elute the DNA by adding 200ul of buffer AE to the centre of the spin column membrane. Incubate for 1-2min at room temperature, then centrifuge for 1 min at 8000rpm. 
+
+KEEP THE FLOW THROUGH AND DISCARD THE SPIN COLUMN
+
+Qubit Quantification
+
+1.	Set up one Qubit tube per sample, plus 2 for the standards. Label tube lids but not sides. 
+2.	Prepare the Qubit working solution in a large enough tube (there will be 200ul per sample 400ul for the standards) by adding 200ul of Qubit buffer and 1 ul of Qubit reagent per sample plus the standards. Add an extra 200ul of buffer and 1ul of reagent to account for pipetting error. 
+3.	Add 190ul of working solution to each standard tube, plus 10ul of the high and low standard respectively. Mix by vortexing, being careful not to create bubbles. 
+4.	Add 198ul of working solution and 2ul of each DNA extraction to the appropriate tube. Mix by vortexing, being careful not to create bubbles.
+5.	Allow all tubes to incubate at room temperature for 2 minutes.
+6.	On the Home screen of the Qubit, press DNA, then select dsDNA. High Sensitivity as the assay type. The “Read standards” screen is displayed. Press Read Standards to proceed.
+Note: If you have already performed a calibration for the selected assay, the instrument prompts you to choose between reading new standards and running samples using the previous calibration. If you want to use the previous calibration, skip to step 9. Otherwise, continue with step 7.
+7.	Insert the tube containing Standard #1 into the sample chamber, close the lid, then press Read standard. When the reading is complete (~3 seconds), remove Standard #1.
+8.	Insert the tube containing Standard #2 into the sample chamber, close the lid, then press Read standard. When the reading is complete, remove Standard #2. The instrument displays the results on the Read standard screen. For information on interpreting the calibration results, refer to the Qubit® 4 Fluorometer User Guide.
+9.	Press Run samples.
+10.	On the assay screen, select the sample volume and units: a. Press the + button on the wheel to select 2ul as the sample volume. b. From the dropdown menu, select the units for the output sample concentration.
+11.	Insert a sample tube into the sample chamber, close the lid, then press Read tube. When the reading is complete (~3 seconds), remove the sample tube.
+12.	The instrument displays the results on the assay screen. The top value (in large font) is the concentration of the original sample – Write down this value. The bottom value is the dilution concentration.
+13.	Repeat step 2.6 until all samples have been read.
+
